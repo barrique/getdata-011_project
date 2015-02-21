@@ -5,7 +5,7 @@ It identifies the variables univocally, associating to each one a range of value
 
 *Subject* and *activity* encode the subjects and the activity labels, the remaining variables represent the mean of the variables in the original dataset associated to mean and standard deviation.  
 
-Please refer to the *features_info.txt* file in the original dataset for additional information, and to the *readme.md* file in this repository for an explanation of the data tidying process.
+Please refer to the *features_info.txt* file in the original dataset for additional information, and to the *README.md* file in this repository for an explanation of the data tidying process.
 
 
 ======================================================================================================================
